@@ -24,4 +24,4 @@ namespace ChainOfResponsibility
                 nextInChain.Calculate(request);
         }
     }
-} //Test fra Randi
+}
