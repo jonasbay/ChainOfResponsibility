@@ -16,8 +16,8 @@ namespace ChainOfResponsibility
             CalculationWanted_ = calcW;
         }
 
-        public int getNumber1() { return Number1_; }
-        public int getNumber2() { return Number2_; }
-        public string getCalcWanted() { return CalculationWanted_; }
+        public int GetNumber1() { return Number1_; }
+        public int GetNumber2() { return Number2_; }
+        public string GetCalcWanted() { return CalculationWanted_; }
     }
 }

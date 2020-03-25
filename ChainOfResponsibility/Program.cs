@@ -6,7 +6,11 @@ namespace ChainOfResponsibility
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Creating number to calculate
+            var numbers = new Numbers(5,2, "subtract");
+
+            //Creating Chain
+            //Addnumbers adder = new AddNumbers();
         }
     }
 }

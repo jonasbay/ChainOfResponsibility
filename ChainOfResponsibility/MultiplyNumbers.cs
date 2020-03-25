@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChainOfResponsibility
 {
-    class AddNumbers : Chainlink
+    class MultiplyNumbers : Chainlink
     {
         private Chainlink nextInChain;
 
@@ -15,10 +15,10 @@ namespace ChainOfResponsibility
 
         public void Calculate(Numbers request)
         {
-            if (request.GetCalcWanted() == "add")
+            if (request.GetCalcWanted() == "multiply")
             {
-                Console.WriteLine(request.GetNumber1() + " + " + request.GetNumber2()
-                    + " = " + (request.GetNumber1() + request.GetNumber2()));
+                Console.WriteLine(request.GetNumber1() + " × " + request.GetNumber2()
+                                  + " = " + (request.GetNumber1() * request.GetNumber2()));
             }
             else
                 nextInChain.Calculate(request);
