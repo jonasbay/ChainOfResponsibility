@@ -4,24 +4,26 @@ using System.Text;
 
 namespace ChainOfResponsibility
 {
-    class AddNumbers : Chainlink
-    {
+    public class SubstractNumbers : Chainlink
+    { 
         private Chainlink nextInChain;
 
         public void SetNextChainlink(Chainlink c)
-        {
+        { 
             nextInChain = c;
         }
 
         public void Calculate(Numbers request)
         {
-            if (request.GetCalcWanted() == "add")
+            if (request.GetCalcWanted() == "substract")
             {
-                Console.WriteLine(request.GetNumber1() + " + " + request.GetNumber2()
-                    + " = " + (request.GetNumber1() + request.GetNumber2()));
+                Console.WriteLine(request.GetNumber1() + " - " + request.GetNumber2() 
+                                  + " = " + (request.GetNumber1() - request.GetNumber2()));
             }
             else
+            {
                 nextInChain.Calculate(request);
+            }
         }
     }
 }

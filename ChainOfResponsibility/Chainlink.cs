@@ -6,7 +6,7 @@ namespace ChainOfResponsibility
 {
     public interface Chainlink
     {
-        public void setNextChainlink(Chainlink nextInChain);
+        public void SetNextChainlink(Chainlink nextInChain);
         public void Calculate(Numbers request);
     }
 }
