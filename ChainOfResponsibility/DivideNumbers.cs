@@ -4,30 +4,30 @@ using System.Text;
 
 namespace ChainOfResponsibility
 {
-    public class Division : Chainlink
+    public class DivideNumbers : Chainlink
     {
         private Chainlink nextInChain;
 
-        public void setNextChainlink(Chainlink c)
+        public void SetNextChainlink(Chainlink c)
         {
             nextInChain = c;
         }
 
         public void Calculate(Numbers request)
         {
-            if (request.getCalcWanted() == "division")
+            if (request.GetCalcWanted() == "division")
             {
                 try
                 {
-                    double result = request.getNumber1() / request.getNumber2();
-                    Console.WriteLine(request.getNumber1() + " / " + request.getNumber2()
+                    double result = request.GetNumber1() / request.GetNumber2();
+                    Console.WriteLine(request.GetNumber1() + " / " + request.GetNumber2()
                     + " = " + result);
                 }
                 catch (ArithmeticException e)
                 {
                     Console.WriteLine($"ArithmeticException handler: {e}");
-                } 
-                
+                }
+
             }
             else
                 nextInChain.Calculate(request);
