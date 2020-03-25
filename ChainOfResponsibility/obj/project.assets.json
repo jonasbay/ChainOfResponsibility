@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Mobil\\.nuget\\packages\\": {}
+    "C:\\Users\\randi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+      "projectUniqueName": "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
       "projectName": "ChainOfResponsibility",
-      "projectPath": "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
-      "packagesPath": "C:\\Users\\Mobil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\obj\\",
+      "projectPath": "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+      "packagesPath": "C:\\Users\\randi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mobil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\randi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
