@@ -1,0 +1,4 @@
+C:\Users\Jonas\OneDrive\4. semester\Software design\Aflevering 1\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\Jonas\OneDrive\4. semester\Software design\Aflevering 1\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\OneDrive\4. semester\Software design\Aflevering 1\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\Jonas\OneDrive\4. semester\Software design\Aflevering 1\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
