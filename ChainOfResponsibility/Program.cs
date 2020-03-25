@@ -10,7 +10,14 @@ namespace ChainOfResponsibility
             var numbers = new Numbers(5,2, "subtract");
 
             //Creating Chain
-            //Addnumbers adder = new AddNumbers();
+            Chainlink chainlink1 = new AddNumbers();
+            Chainlink chainlink2 = new SubtractNumbers();
+            Chainlink chainlink3 = new MultiplyNumbers();
+            Chainlink chainlink4 = new DivideNumbers();
+
+            chainlink1.SetNextChainlink(chainlink2);
+            chainlink2.SetNextChainlink(chainlink3);
+            chainlink3.SetNextChainlink(chainlink3);
         }
     }
 }
