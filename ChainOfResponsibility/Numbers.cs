@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChainOfResponsibility
 {
-    class Numbers
+    public class Numbers
     {
         int Number1_;
         int Number2_;
