@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
+    "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
+    "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectUniqueName": "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
         "projectName": "ChainOfResponsibility",
-        "projectPath": "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
-        "packagesPath": "C:\\Users\\randi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\randi\\OneDrive - Aarhus universitet\\IKT\\4. semester\\SWDesign\\Aflevering Pattern Design\\ChainOfResponsibility\\ChainOfResponsibility\\obj\\",
+        "projectPath": "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "packagesPath": "C:\\Users\\Mobil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mobil\\OneDrive - Aarhus universitet\\4. Semester\\SWD\\Mandatory Assignment\\Chain_of_Responsibility\\ChainOfResponsibility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\randi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mobil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

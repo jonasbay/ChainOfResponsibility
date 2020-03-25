@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChainOfResponsibility
 {
-    public class SubstractNumbers : Chainlink
+    public class SubtractNumbers : Chainlink
     { 
         private Chainlink nextInChain;
 
@@ -15,7 +15,7 @@ namespace ChainOfResponsibility
 
         public void Calculate(Numbers request)
         {
-            if (request.GetCalcWanted() == "substract")
+            if (request.GetCalcWanted() == "subtract")
             {
                 Console.WriteLine(request.GetNumber1() + " - " + request.GetNumber2() 
                                   + " = " + (request.GetNumber1() - request.GetNumber2()));
