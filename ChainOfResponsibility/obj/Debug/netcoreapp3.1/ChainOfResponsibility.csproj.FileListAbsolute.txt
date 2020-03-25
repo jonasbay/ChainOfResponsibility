@@ -15,3 +15,16 @@ C:\Users\Mobil\OneDrive - Aarhus universitet\4. Semester\SWD\Mandatory Assignmen
 C:\Users\Mobil\OneDrive - Aarhus universitet\4. Semester\SWD\Mandatory Assignment\Chain_of_Responsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
 C:\Users\Mobil\OneDrive - Aarhus universitet\4. Semester\SWD\Mandatory Assignment\Chain_of_Responsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
 C:\Users\Mobil\OneDrive - Aarhus universitet\4. Semester\SWD\Mandatory Assignment\Chain_of_Responsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.genruntimeconfig.cache
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.exe
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.json
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+C:\Users\randi\OneDrive - Aarhus universitet\IKT\4. semester\SWDesign\Aflevering Pattern Design\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.genruntimeconfig.cache
