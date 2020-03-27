@@ -15,7 +15,7 @@ namespace ChainOfResponsibility
 
         public void Calculate(Numbers request)
         {
-            if (request.GetCalcWanted() == "division")
+            if (request.GetCalcWanted() == "divide")
             {
                 try
                 {
